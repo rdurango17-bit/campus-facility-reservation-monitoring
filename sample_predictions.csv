@@ -1,0 +1,6 @@
+Reservation_ID,User_Type,Facility_Type,Duration_Hours,Participants,Days_Before_Event,After_Office_Hours,Purpose,Predicted_Risk,At_Risk_Probability,Model_Version,Note
+Res-0001,Student,Classroom,1,81,5,No,Training,Completed,0.2,DEMO-RF-0.1,Illustrative predictions from provisional demo model; not validated operational predictions.
+Res-0002,Student Organization,Classroom,1,62,18,No,Meeting,At Risk,0.704,DEMO-RF-0.1,Illustrative predictions from provisional demo model; not validated operational predictions.
+Res-0003,Faculty,Classroom,3,98,24,Yes,Seminar,Completed,0.036,DEMO-RF-0.1,Illustrative predictions from provisional demo model; not validated operational predictions.
+Res-0004,Faculty,Auditorium,6,73,4,Yes,Meeting,Completed,0.16,DEMO-RF-0.1,Illustrative predictions from provisional demo model; not validated operational predictions.
+Res-0005,Student,Classroom,3,26,2,Yes,Class,Completed,0.076,DEMO-RF-0.1,Illustrative predictions from provisional demo model; not validated operational predictions.
